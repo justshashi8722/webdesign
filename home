@@ -1,0 +1,7 @@
+.body {
+  color: red;
+  background-color: pink;
+  font-family: times of roman;
+  padding: 0px;
+}  
+  
